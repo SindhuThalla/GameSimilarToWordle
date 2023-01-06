@@ -7,7 +7,3 @@ It contains four APIs:
 4. Which displays the number of the attempts for the given day.
 
 The api's are built using Flask and SQLite database is used to store the data.
-
-Improvements:
-1. The current implementation does not have user specific information.
-2. The test scripts were not added for all scenarios.
